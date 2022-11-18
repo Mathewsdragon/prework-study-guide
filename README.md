@@ -30,9 +30,7 @@
  
  
 
-This process taught me how to use coding to star work on templates, html for bare bones basics and CSS to use selectors and js to develop it further to  
-
-use the Dev Console on Chrome.   
+This process taught me how to use coding to star work on templates, html for bare bones basics and CSS to use selectors and js to develop it further to use the Dev Console on Chrome.   
 
  
  

@@ -18,9 +18,9 @@
 
 - The prework introduced me to coding using HTML, CSS and js and more importantly taught me to start to think more like a coder understanding the process of trial and error and the process of testing and posting code for review in teams. Though there was no need to share with teams on github at this stage it is an important learning step to understand the process of iterations in code development.      
 
--The process is quite intensive due to the Bootcamp approach to fast and intense work but is a useful approach when trying to get people up to speed quickly.  
+- The process is quite intensive due to the Bootcamp approach to fast and intense work but is a useful approach when trying to get people up to speed quickly.  
 
--The time commitments in this course are however quite intense given most people on this course will most likely be in full time employment. 
+- The time commitments in this course are however quite intense given most people on this course will most likely be in full time employment. 
 
  
  
